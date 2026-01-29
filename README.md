@@ -7,3 +7,9 @@
 - [#1] Two Sum: completed
 - [#217] Contains Duplicate: completed
 - [#242] Valid Anagram: completed
+
+### 01/29/26
+
+- [#242] Valid Anagram: completed
+- [#49] Group Anagrams: almost
+- [#347] Top K Frequent Elements: almost
