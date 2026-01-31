@@ -13,3 +13,11 @@
 - [#242] Valid Anagram: completed
 - [#49] Group Anagrams: almost
 - [#347] Top K Frequent Elements: almost
+
+### 01/30/26
+
+- [#49] Group Anagrams: completed
+- [#347] Top K Frequent Elements: completed
+- Encode and Decode: completed
+- [#238] Product of Array Except Self: almost
+- [#36] Valid Sudoku: completed
